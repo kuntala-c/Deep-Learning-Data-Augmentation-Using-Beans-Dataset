@@ -3,4 +3,4 @@ Demo of data augmentation: a technique to increase the diversity of your trainin
 
 **Learnings:**
 * Used Keras preprocessing layers for data augmentation - Got 68% accuracy
-* Used Custom data augmentation methods - Got 70% accuracy
+* Used Custom data augmentation - Got 70% accuracy
